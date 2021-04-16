@@ -147,6 +147,7 @@ body::after {
         margin-top: 30px;
         margin-bottom: 20px;
     }
+   
 }
 .cards-box {
     background-color:rgb(212, 209, 209) ;
@@ -174,7 +175,7 @@ body::after {
 
 @media (max-width:767px) { 
     .card {
-        margin-left:auto ;
+        margin-left:4px ;
 
     }
     
